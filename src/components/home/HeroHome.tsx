@@ -4,9 +4,7 @@ import { FaSquarePhoneFlip } from "react-icons/fa6";
 import { GiPowerLightning, GiTeacher } from "react-icons/gi";
 import { GrCertificate } from "react-icons/gr";
 
-interface HeroHomeProps {}
-
-const HeroHome: React.FC<HeroHomeProps> = () => {
+const HeroHome: React.FC = () => {
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isVideoLoaded, setIsVideoLoaded] = useState<boolean>(false);
   const [showContent, setShowContent] = useState<boolean>(false);
