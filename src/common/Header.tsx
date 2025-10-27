@@ -10,7 +10,7 @@ import {
   FaBars,
   FaTimes,
   FaChevronDown,
-  FaHome,
+  // FaHome,
   FaGraduationCap,
   FaImages,
   FaUserFriends,
