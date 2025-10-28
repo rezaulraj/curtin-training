@@ -64,10 +64,10 @@ export default function AboutUs() {
         <div className="space-y-8 order-2">
           {/* Heading Section */}
           <div className="space-y-4">
-            <h2 className="text-xl lg:text-2xl font-bold font-serif text-[#3D4127] leading-tight">
+            <h2 className="text-xl lg:text-2xl font-bold font-serif text-[#636B2F] leading-tight">
               About Us
             </h2>
-            <h3 className="text-3xl md:text-4xl lg:text-5xl font-semibold text-[#636B2F] leading-[55px]">
+            <h3 className="text-3xl md:text-4xl lg:text-5xl font-semibold text-[#3D4127] leading-[55px]">
               We Are Skills Training Industry with 19 Years Experience
             </h3>
             <div className="inline-block bg-[#D4DE95]/20 px-4 py-2 rounded-lg">
