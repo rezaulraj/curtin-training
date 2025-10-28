@@ -19,7 +19,7 @@ export default function AboutUs() {
     <div className="min-h-screen bg-gray-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
         {/* Left Side - Image */}
-        <div className="relative order-1">
+        <div className="relative order-2 lg:order-1">
           <div
             className="relative h-[500px] lg:h-[600px] w-full rounded-2xl overflow-hidden 
                          shadow-2xl transform hover:scale-[1.02] transition-all duration-500"
@@ -61,7 +61,7 @@ export default function AboutUs() {
         </div>
 
         {/* Right Side - Text Content */}
-        <div className="space-y-8 order-2">
+        <div className="space-y-8 order-1 lg:order-2">
           {/* Heading Section */}
           <div className="space-y-4">
             <h2 className="text-xl lg:text-2xl font-bold font-serif text-[#636B2F] leading-tight">
