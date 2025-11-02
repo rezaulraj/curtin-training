@@ -1,3 +1,4 @@
+"use client"
 import React, { useRef, useEffect, useState } from "react";
 import { FaEnvelope } from "react-icons/fa";
 import { FaSquarePhoneFlip } from "react-icons/fa6";
