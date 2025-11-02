@@ -38,7 +38,7 @@ export default function WhyUs() {
 
               {/* Main Heading */}
               <h1 className="text-3xl lg:text-5xl xl:text-6xl font-black text-gray-900 leading-tight">
-                Let's Trust Us We Work With
+                Let&apos;s Trust Us We Work With
                 <span className="block text-transparent bg-clip-text bg-gradient-to-r from-[#636B2F] to-[#D4DE95]">
                   Professional Team
                 </span>

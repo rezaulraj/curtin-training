@@ -100,7 +100,7 @@ export default function FeedBack() {
 
                       {/* Testimonial Text */}
                       <p className="text-gray-700 text-lg leading-relaxed mb-8 italic">
-                        "{testimonial.text}"
+                        &quot;{testimonial.text}&quot;
                       </p>
 
                       {/* Student Info */}
@@ -177,7 +177,7 @@ export default function FeedBack() {
               <p className="text-lg text-gray-600 leading-relaxed">
                 Our students consistently praise our top-quality training
                 programs—discover their valuable feedback on the skills and
-                performance of the workers we've trained.
+                performance of the workers we&apos;ve trained.
               </p>
 
               {/* Stats Grid */}

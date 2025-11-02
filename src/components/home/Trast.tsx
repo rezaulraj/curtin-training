@@ -90,7 +90,7 @@ export default function Trust() {
               {/* Creative Headline Layout */}
               <div className="space-y-4">
                 <h1 className="text-4xl lg:text-5xl font-black text-gray-900 leading-tight">
-                  Don't Settle For
+                  Don&apos;t Settle For
                   <br />
                   <span className="relative inline-block">
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#636B2F] to-[#D4DE95]">
