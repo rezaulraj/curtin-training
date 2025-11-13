@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React, { useRef, useEffect, useState } from "react";
 import { FaEnvelope } from "react-icons/fa";
 import { FaSquarePhoneFlip } from "react-icons/fa6";
@@ -139,7 +139,7 @@ const HeroHome: React.FC = () => {
                 Bangladesh’s Leading
               </span>
               <span className="block text-white text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-light mt-2 lg:mt-4 opacity-90">
-                Skills Training Center
+                Technical Training Center
               </span>
             </h1>
           </div>

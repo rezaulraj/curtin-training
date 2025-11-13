@@ -3,6 +3,7 @@ import AboutUs from "@/components/home/AboutUs";
 import Courses from "@/components/home/Courses";
 import FeedBack from "@/components/home/FeedBack";
 import HeroHome from "@/components/home/HeroHome";
+import Partners from "@/components/home/Partners";
 import Service from "@/components/home/Service";
 import Showcase from "@/components/home/Showcase";
 import Trast from "@/components/home/Trast";
@@ -19,6 +20,7 @@ export default function Home() {
       <WhyUs />
       <Showcase />
       <FeedBack />
+      <Partners />
     </main>
   );
 }
