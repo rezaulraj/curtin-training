@@ -225,22 +225,6 @@ const HeroHome: React.FC = () => {
               <FaEnvelope />
             </button>
           </div>
-
-          {/* Scroll Indicator */}
-          {/* <div
-            className={`absolute bottom-6 sm:bottom-8 left-1/2 transform -translate-x-1/2 transition-all duration-700 delay-800 ${
-              showContent ? "opacity-100" : "opacity-0"
-            }`}
-          >
-            <div className="animate-bounce">
-              <div className="w-5 h-8 sm:w-6 sm:h-10 border-2 border-[#D4DE95] rounded-full flex justify-center">
-                <div className="w-1 h-2 sm:h-3 bg-[#D4DE95] rounded-full mt-1 sm:mt-2"></div>
-              </div>
-              <p className="text-[#BAC095] text-xs mt-2 text-center hidden sm:block">
-                Scroll Down
-              </p>
-            </div>
-          </div> */}
         </div>
       </div>
 
